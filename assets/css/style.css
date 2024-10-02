@@ -1,0 +1,38 @@
+body{
+    background-image: url(./image/sand-ba-1600x900.jpg);
+}
+
+.test{
+    border-radius: 60px; 
+     display: flex; 
+}
+
+.smallest-cols{
+     height: 40px; 
+    /* background-color: firebrick; */
+ display: flex; 
+
+}
+
+.smallest-cols span{
+    color: white;
+
+}
+
+.bottom-bar1{
+
+    background-color: brown;
+}
+
+.agil{
+    border-right: 1px solid black;
+   
+}
+
+ .test h5{
+    text-align: center;
+}
+
+.test p{
+    text-align: center;
+}
